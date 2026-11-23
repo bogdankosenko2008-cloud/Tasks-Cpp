@@ -1,0 +1,4 @@
+                   Hello world!
+                  C++ programming
+
+               Center alignment test
