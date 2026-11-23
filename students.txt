@@ -1,0 +1,3 @@
+Kosenko 2 IP-21 5, 5, 4, 5
+Martynenko 1 IP-12 3, 4, 3
+Boryseiko 3 IP-01 4, 4, 5, 4
